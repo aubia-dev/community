@@ -4,7 +4,7 @@
 
 Espace public pour les utilisateurs, beta testers et early supporters d'Aubia. Ce repo sert aux discussions communautaires, au feedback et à la visibilité publique de la roadmap.
 
-[Rejoindre la waitlist sur aubia.dev](https://aubia.dev) | [@aubia_dev sur X](https://x.com/aubia_dev) | [Aubia sur LinkedIn](https://www.linkedin.com/company/aubia)
+[Rejoindre la waitlist sur aubia.dev](https://aubia.dev) | [@aubia_dev sur X](https://x.com/aubia_dev) | [Aubia sur LinkedIn](https://www.linkedin.com/company/aubia-dev)
 
 ## Sommaire
 
