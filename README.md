@@ -1,8 +1,9 @@
-# Aubia community
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset=".github/assets/aubia-github-header-en-dark.png">
+  <img alt="Aubia makes your AI agents review each other." src=".github/assets/aubia-github-header-en-light.png">
+</picture>
 
 **English** | [Français](README.fr.md)
-
-**Aubia makes your AI agents review each other.**
 
 This public space welcomes your questions and ideas about Aubia, before and during the beta.
 

@@ -1,8 +1,9 @@
-# Communauté Aubia
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset=".github/assets/aubia-github-header-fr-dark.png">
+  <img alt="Aubia fait relire chaque agent IA par un autre." src=".github/assets/aubia-github-header-fr-light.png">
+</picture>
 
 [English](README.md) | **Français**
-
-**Aubia fait relire chaque agent IA par un autre.**
 
 Cet espace public accueille vos questions et vos idées sur Aubia, avant et pendant la bêta.
 
