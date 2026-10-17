@@ -9,10 +9,10 @@ This public space welcomes your questions and ideas about Aubia, before and duri
 
 [Join the waitlist on aubia.dev](https://aubia.dev) | [Devlog](https://aubia.dev/en/blog) | [@aubia_dev on X](https://x.com/aubia_dev) | [Aubia on LinkedIn](https://www.linkedin.com/company/aubia-dev)
 
-![Phase 0 Waitlist](https://img.shields.io/badge/Phase%200-Waitlist-8839ef?style=flat-square&labelColor=1e1e2e)
-![Beta 0.1 macOS Apple Silicon](https://img.shields.io/badge/Beta%200.1-macOS%20Apple%20Silicon-1e66f5?style=flat-square&labelColor=1e1e2e&logo=apple&logoColor=cdd6f4)
-![Made in Paris FR](https://img.shields.io/badge/Made%20in-Paris%20FR-45475a?style=flat-square&labelColor=1e1e2e)
-[![X @aubia_dev](https://img.shields.io/badge/%40aubia__dev-1e1e2e?style=flat-square&logo=x&logoColor=cdd6f4)](https://x.com/aubia_dev)
+![Phase 0 Waitlist](https://img.shields.io/badge/Phase%200-Waitlist-9D8AFA?style=flat-square&labelColor=15171C)
+![Beta 0.1 macOS Apple Silicon](https://img.shields.io/badge/Beta%200.1-macOS%20Apple%20Silicon-F3A4B7?style=flat-square&labelColor=15171C&logo=apple&logoColor=EEF0F3)
+![Made in Paris](https://img.shields.io/badge/Made%20in-Paris-FEBF94?style=flat-square&labelColor=15171C)
+[![X @aubia_dev](https://img.shields.io/badge/%40aubia__dev-15171C?style=flat-square&logo=x&logoColor=EEF0F3)](https://x.com/aubia_dev)
 
 ## The Aubia cockpit
 
