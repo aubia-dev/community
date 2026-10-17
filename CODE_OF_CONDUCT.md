@@ -1,24 +1,22 @@
 # Aubia community Code of Conduct
 
-## Our pledge
+## Commitment
 
-Aubia is committed to providing a welcoming and inclusive environment for everyone, regardless of personal or professional characteristics. We follow the Contributor Covenant 2.1.
+Aubia follows the Contributor Covenant 2.1: this space welcomes everyone, regardless of personal or professional characteristics.
 
-Full text: <https://www.contributor-covenant.org/version/2/1/code_of_conduct.html>
+Full text: <https://www.contributor-covenant.org/version/2/1/code_of_conduct/>
 
 ## Scope
 
-This Code of Conduct applies to all Aubia community spaces (this repo Discussions, future Discord/Slack, social media when interacting with `@aubia_dev` content) and to anyone officially representing Aubia in public.
+This Code of Conduct applies to the Discussions of this repository, to exchanges with the `@aubia_dev` account on X and the Aubia page on LinkedIn, and to me when I represent Aubia in public.
 
 ## Reporting
 
-Any breach can be reported to: `contact@aubia.dev`
-
-Reports are reviewed within 48 hours on business days. Reporter identity is kept confidential.
+Report any breach to `contact@aubia.dev`. I review reports within 48 hours on business days and keep the reporter's identity confidential.
 
 ## Enforcement
 
-The maintainer may apply any of the following: a warning, a temporary suspension, a permanent ban from Aubia community spaces. Decisions are documented internally and not subject to public debate.
+As the only maintainer, I may issue a warning, a temporary suspension or a permanent ban from Aubia's community spaces. These decisions are recorded privately and are not open to public debate.
 
 ## Attribution
 
