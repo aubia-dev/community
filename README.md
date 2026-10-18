@@ -1,7 +1,5 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset=".github/assets/aubia-github-header-en-dark.png">
-  <img alt="Aubia makes your AI agents review each other." src=".github/assets/aubia-github-header-en-light.png">
-</picture>
+![Aubia makes your AI agents review each other.](.github/assets/aubia-github-header-en-light.png#gh-light-mode-only)
+![Aubia makes your AI agents review each other.](.github/assets/aubia-github-header-en-dark.png#gh-dark-mode-only)
 
 **English** | [Français](README.fr.md)
 
