@@ -8,7 +8,7 @@ Full text: <https://www.contributor-covenant.org/version/2/1/code_of_conduct/>
 
 ## Scope
 
-This Code of Conduct applies to the Discussions of this repository, to exchanges with the `@aubia_dev` account on X and the Aubia page on LinkedIn, and to me when I represent Aubia in public.
+This Code of Conduct applies to Aubia's community spaces: the Discussions and pull requests of this repository, and exchanges with the `@aubia_dev` account on X and the Aubia page on LinkedIn. It also applies to me when I represent Aubia in public.
 
 ## Reporting
 
