@@ -45,3 +45,5 @@ La [feuille de route d'aubia.dev](https://aubia.dev/fr#roadmap) suit Aubia de la
 ## Code de conduite
 
 Les échanges restent courtois et dans le sujet. Je modère seul cet espace : un message irrespectueux ou publicitaire est supprimé sans préavis. Les règles complètes se trouvent dans [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md), adapté du Contributor Covenant 2.1.
+
+Aubia est conçu et écrit par Mike EL GHALI, depuis Paris.

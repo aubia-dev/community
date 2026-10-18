@@ -45,3 +45,5 @@ The [aubia.dev roadmap](https://aubia.dev/en#roadmap) follows Aubia from beta 0.
 ## Code of conduct
 
 Exchanges stay courteous and on topic. I moderate this space alone: a disrespectful or promotional message is removed without notice. The full rules are in [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md), adapted from the Contributor Covenant 2.1.
+
+Aubia is designed and written by Mike EL GHALI, from Paris.
