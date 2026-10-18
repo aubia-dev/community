@@ -2,7 +2,7 @@
 
 ## Commitment
 
-This Code of Conduct adapts the Contributor Covenant 2.1: this space welcomes everyone, regardless of personal or professional characteristics.
+This Code of Conduct adapts the Contributor Covenant 2.1: Aubia's community spaces welcome everyone, regardless of personal or professional characteristics.
 
 Full text: <https://www.contributor-covenant.org/version/2/1/code_of_conduct/>
 
